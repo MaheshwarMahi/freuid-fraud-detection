@@ -19,7 +19,6 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 .ipynb_metadata
-*.ipynb
 
 # ============================================================
 # Model Weights & Checkpoints (TOO LARGE FOR GIT)
